@@ -12,7 +12,7 @@ namespace FizzBuzz
         {
             FizzBuzzProgram fizzBuzzProgram = new FizzBuzzProgram();
             fizzBuzzProgram.FizzBuzz();
-         
+            Console.WriteLine("Jeniks Testing");
             Console.ReadKey();
 
            
